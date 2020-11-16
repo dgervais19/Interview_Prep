@@ -148,3 +148,23 @@ T - The aim was to create a test for a simple calculator program.
 A - The test was written and when ran, it failed as there was no code yet written. Once the calculator was created using Classes and methods, I had to refactor the code to make it pass the test.
 
 R - Program passed the test successfully.
+
+## DevOps Questions
+### What is DevOps?
+* DevOps is a software development methodology that bridges the gap between software development and IT Operations. DevOps engineers participate in the entire development process of a product.
+* It is a set of practices that automate the processes between software development and IT teams with the aim of building, testing and releasing software faster.
+
+### Why Use DevOps?
+S - Poor communication and organisation between Software Development teams and IT Operations.
+
+T - Automate processes between the two departments and to become more efficient in product delivery speed and customer satisfaction
+
+A - Implement DevOps culture using the many tools available
+
+R - Continuous delivery of software at a higher value.
+
+### Why I Chose DevOps.
+
+Coming from a background full of technology, my interest for coding and other computing techniques grew. It lead me to studying computer science at University where I completed my undergraduate degree and managed to develop a web based invoicing app for my final year project.
+
+As I was researching more about the computing industry, I came across Sparta Global and applied for software development. At the assessment day, I saw one of my university friends who was, then, training to be a DevOps consultant at Sparta. With his explanation on what DevOps is and also Sparta's presentation which explained the concepts of DevOps, I decided that this would be the best option for me especially as I am looking to develop my final year project further. It lead me to believe that DevOps would show me the main principles on how to develop and deploy software etc. Also, I work very well within a team which is great for DevOps as it is relatively a team oriented field to be in.
